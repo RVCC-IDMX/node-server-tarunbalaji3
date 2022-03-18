@@ -13,7 +13,6 @@
   "keywords": [],
   "author": "Tarun Balaji Ravi <tarunbalaji3@gmail.com> (https://github.com/tarunbalaji3)",
   "license": "MIT",
-  "type": "module",
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/node-server-tarunbalaji3/issues"
   },
